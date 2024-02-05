@@ -4,4 +4,4 @@
 <p align=center>Q 群：716900678</p>
 <p align=center>
 
-  <img src="./mainpicture.jpg">
+  <img src="https://github.com/BoliShrine/.github/raw/main/profile/mainpicture.jpg">
